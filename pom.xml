@@ -43,7 +43,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>Calc</mainClass>
+              <mainClass>ShoppingCart</mainClass>
             </manifest>
           </archive>
         </configuration>
